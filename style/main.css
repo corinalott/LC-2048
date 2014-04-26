@@ -532,7 +532,7 @@ hr {
   display: inline-block;
   text-align: center;
   margin-top: 20px;
-  float: right; }
+  float: left; }
 
 .game-explanation {
   margin-top: 50px; }
@@ -745,3 +745,7 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
+	
+	.fb-like {
+	z-index: 200
+	}
